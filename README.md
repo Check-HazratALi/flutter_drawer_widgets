@@ -10,7 +10,7 @@ Its highlights:
 - Smooth Animation
 - Material UI
 
-<img src="https://github.com/RyuuKenshi/flutter_collapsible_sidebar/blob/master/example/collapsible_sidebar1.gif" alt="drawing" width="250"/>
+<img src="https://github.com/Check-HazratALi/flutter_drawer_widgets/blob/main/assets/animated_collaps_side_bar/collapsible_sidebar1.gif" alt="drawing" width="250"/>
 
 # Running
 
