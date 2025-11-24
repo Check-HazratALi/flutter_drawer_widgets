@@ -15,6 +15,7 @@ dependencies:
 
   #For animated side bar
   sidebar_with_animation: ^0.0.3
+  rxdart: ^0.28.0
 
 dev_dependencies:
   flutter_test:
