@@ -1,16 +1,25 @@
-# flutter_drawer
+# collapsible_slider_example
 
-A new Flutter project.
+This exmaple shows a collapsible slider example.
+Its highlights:
 
-## Getting Started
+- Collapsible Slider
+- Collapsible Items
+- Avatar Icon
+- Collapse Button
+- Smooth Animation
+- Material UI
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/RyuuKenshi/flutter_collapsible_sidebar/blob/master/example/collapsible_sidebar1.gif" alt="drawing" width="250"/>
 
-A few resources to get you started if this is your first Flutter project:
+# Running
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Building
+
+```
+flutter build ios  OR  flutter build apk
+```
